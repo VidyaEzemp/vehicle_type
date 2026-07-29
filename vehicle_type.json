@@ -1,21 +1,82 @@
-[ 
-    { "id": "bike", "name": "Biker"}, 
-    { "id": "scooter", "name": "Scooter"}, 
-    { "id": "autoriksha", "name": "Autoriksha"}, 
-    { "id": "suv", "name": "SUV" }, 
-    { "id": "muv", "name": "MUV"}, 
-    { "id": "pickup_truck", "name": "Pickup Truck" }, 
-    { "id": "passenger_bus", "name": "Passenger Bus"}, 
-    { "id": "school_bus", "name": "School Bus"}, 
-    { "id": "truck", "name": "Truck" }, 
-    { "id": "lorry", "name": "Lorry" }, 
-    { "id": "crossover", "name": "Crossover" },
-    { "id": "hatchback", "name": "Hatchback"},
-    { "id": "pickup_truck", "name": "Pickup Truck"},
-    { "id": "sedan", "name": "Sedan"},
-    { "id": "three_wheeler_cargo", "name": "Three Wheeler Cargo"},
-    { "id": "tipper", "name": "Tipper"},
-    { "id": "tractor", "name": "Tractor"}, 
-    { "id": "van", "name": "Van"}, 
-    { "id": "ambulance", "name": "Ambulance"}, 
-    { "id": "fire_engine", "name": "Fire Engine"} ]
+[
+  {
+    "id": "bike",
+    "name": "Biker"
+  },
+  {
+    "id": "scooter",
+    "name": "Scooter"
+  },
+  {
+    "id": "autoriksha",
+    "name": "Autoriksha"
+  },
+  {
+    "id": "suv",
+    "name": "SUV"
+  },
+  {
+    "id": "muv",
+    "name": "MUV"
+  },
+  {
+    "id": "pickup_truck",
+    "name": "Pickup Truck"
+  },
+  {
+    "id": "passenger_bus",
+    "name": "Passenger Bus"
+  },
+  {
+    "id": "school_bus",
+    "name": "School Bus"
+  },
+  {
+    "id": "truck",
+    "name": "Truck"
+  },
+  {
+    "id": "lorry",
+    "name": "Lorry"
+  },
+  {
+    "id": "crossover",
+    "name": "Crossover"
+  },
+  {
+    "id": "hatchback",
+    "name": "Hatchback"
+  },
+  {
+    "id": "pickup_truck",
+    "name": "Pickup Truck"
+  },
+  {
+    "id": "sedan",
+    "name": "Sedan"
+  },
+  {
+    "id": "three_wheeler_cargo",
+    "name": "Three Wheeler Cargo"
+  },
+  {
+    "id": "tipper",
+    "name": "Tipper"
+  },
+  {
+    "id": "tractor",
+    "name": "Tractor"
+  },
+  {
+    "id": "van",
+    "name": "Van"
+  },
+  {
+    "id": "ambulance",
+    "name": "Ambulance"
+  },
+  {
+    "id": "fire_engine",
+    "name": "Fire Engine"
+  }
+]
