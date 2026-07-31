@@ -48,10 +48,6 @@
     "name": "Hatchback"
   },
   {
-    "id": "pickup_truck",
-    "name": "Pickup Truck"
-  },
-  {
     "id": "sedan",
     "name": "Sedan"
   },
